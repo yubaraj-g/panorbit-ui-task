@@ -1,10 +1,16 @@
 # Getting Started with Create React App
 
+Technologies used: React, CRA, TailwindCSS, Redux Toolkit
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm i`
+
+Installs all the necessary packages and node modules
 
 ### `npm start`
 

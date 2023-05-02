@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Technologies used: React, CRA, TailwindCSS, Redux Toolkit
+# Technologies used: React, CRA, TailwindCSS, Redux Toolkit
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
